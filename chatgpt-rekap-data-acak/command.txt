@@ -1,0 +1,17 @@
+<!-- 
+Command on ChatGPT:  
+
+ada list data acak berupa nomor, nama, jenis kelamin, usia, kelurahan, rt, rw,
+tolong bantu perbarui list data acak berikut sesuai urutan, dan langsung buatkan list row agar siap diinputkan ke database seperti contoh berikut, tambah field STATUS,date_inserted dari saya,untuk field kecamatan dan tps di awal cukup statis saja yaitu kecamatan PULOMERAK, dan TPS 001,
+berikut contohnya:
+
+INSERT INTO anggota (kecamatan,tps,nama,jenis_kelamin,usia,kelurahan,rt,rw,STATUS,date_inserted) VALUES
+("PULOMERAK","001","ARIF SIDDIK MUHARAM","L","22","PULOMERAK","001","001","1",NOW()),
+
+berikut list data acaknya:
+
+- ARIF L 22 PULOMERAK 001 002
+- SIDDIK L 22 PULOMERAK 003 004
+- MUHARAM L 22 PULOMERAK 005 006
+
+-->
